@@ -3,13 +3,22 @@ DerivedDataCache
 Intermediate
 Saved
 Build
+Plugins
+
 **/Assets
 **/MetaHumans
 **/ParagonMinions
 **/AuaReborn
+**/LevelPrototyping
+**/Characters
+**/Blueprints
+**/Audio
+**/AnimStarterPack
+
 
 .vscode
 .vs
+
 *.VC.db
 *.opensdf
 *.opendb
